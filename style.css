@@ -1,0 +1,104 @@
+body{
+    background-color: black;
+  }
+
+h1{
+    text-transform: uppercase;
+    font-size: 3rem;
+    color: white;
+    text-align: center;
+}
+
+.luffy{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 5%;
+    color:white;
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+}
+
+.zoro{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 5%;
+    color:white;
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+}
+
+.nami{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 5%;
+    color:white;
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+}
+
+.usopp{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 5%;
+    color:white;
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+}
+
+.sanji{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 5%;
+    color:white;
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+}
+
+.chopper{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 5%;
+    color:white;
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+}
+
+.robin{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 5%;
+    color:white;
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+}
+
+.franky{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 5%;
+    color:white;
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+}
+
+.brook{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 5%;
+    color:white;
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+}
+
+.jinbe{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 5%;
+    color:white;
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+}
+  img{
+    border: 5px solid white;
+    width: 100%;
+  }
